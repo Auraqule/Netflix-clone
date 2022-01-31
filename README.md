@@ -1,2 +1,2 @@
 # Netflix-clone
-This is a netflix clone build with REACT and deployed with Firebase.
+This is a netflix clone built with REACT and deployed with Firebase.
